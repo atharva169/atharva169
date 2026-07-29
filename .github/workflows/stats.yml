@@ -1,6 +1,9 @@
 name: refresh stats
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "17 5 * * *"
   workflow_dispatch:
