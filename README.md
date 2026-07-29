@@ -13,7 +13,7 @@
 </div>
 ---
 
-# 🛠 Tech Stack
+# 🛠 Technical Skills
 
 <div align="center">
 
