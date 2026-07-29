@@ -2,49 +2,49 @@
 
 <img src="./ascii.svg" width="460" alt="Atharva Singh"/>
 
-<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
+</div>
 
-[github](https://github.com/atharva169)
+# Building projects....
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva169&theme=github-compact&hide_border=true" />
+
+</div>
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<b>Languages</b> <br> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+
+
+
+<b>Frontend</b> <br> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+
+
+
+<b>Backend</b> <br> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+
+
+
+<b>Tools</b> <br> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+</div> 
+
+---
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com/?user=atharva169&theme=transparent&hide_border=true" />
 
 </div>
 
-<img src="./hd-about.svg" width="620" alt="about"/>
+---
 
-> Developer & Creator <br>
-> Building tools for governance, agriculture, and management.
+<div align="center">
 
-I build systems that solve real-world problems. Right now I am working on<br>
-[ai-governance-priority-engine](https://github.com/atharva169/ai-governance-priority-engine) — an AI-powered governance prioritization and accountability system.<br>
-Also exploring building robust applications with modern web technologies.
+### "Build. Break. Learn. Repeat."
 
-<img src="./hd-stack.svg" width="620" alt="stack"/>
-
-<samp>typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; git &nbsp; linux</samp>
-
-<img src="./hd-projects.svg" width="620" alt="projects"/>
-
-**[ai-governance-priority-engine](https://github.com/atharva169/ai-governance-priority-engine)** &nbsp;·&nbsp; <samp>typescript</samp><br>
-AI-powered governance prioritization and accountability system (Digital Democracy).
-
-**[Krishimitra](https://github.com/atharva169/Krishimitra)** &nbsp;·&nbsp; <samp>typescript</samp><br>
-An agricultural assistant to help farmers.
-
-**[BuildAtlas](https://github.com/atharva169/BuildAtlas)** &nbsp;·&nbsp; <samp>javascript</samp><br>
-A project built with JavaScript.
-
-**[AAkar](https://github.com/atharva169/AAkar)** &nbsp;·&nbsp; <samp>javascript</samp><br>
-AI Booth Management system (Forked).
-
-<img src="./hd-stats.svg" width="620" alt="stats"/>
-
-<img src="./streak.svg" width="620" alt="Streak"/>
-
-<img src="./langs.svg" width="620" alt="Languages"/>
-
-<img src="./year.svg" width="620" alt="Activity this year"/>
-
-<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
-
-Every graphic here is generated, not embedded from anyone else's server. ascii.svg is a photo pushed through a character ramp; the stat graphics and these section headings are drawn by a scheduled action straight from the GitHub GraphQL API, once a day, committing only what changed.
-
-The typeface is JetBrains Mono, subset to just the characters each graphic draws and inlined as base64. That isn't only for looks: the portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose default monospace is narrower would otherwise see it squeezed.
+</div>
