@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva169&theme=dark&hide_border=true" />
+<img src="./streak.svg" width="620" alt="Streak"/>
 
 </div>
 
